@@ -29,7 +29,7 @@ resource "random_string" "uniquestring" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "811-4235752a-provide-continuous-delivery-with-gith"
+  name     = "811-4235752a-provide-continuous-delivery-with-gith-new"
   location = "westus"
 }
 
